@@ -1,0 +1,27 @@
+# baseURL = "http://empiraca.ly/"
+baseURL = "/"
+languageCode = "en-us"
+title = "Empirica"
+theme = "kube"
+description = "Open-source JavaScript framework for running multiplayer interactive experiments and games in the browser. It was created to make it easy to develop and iterate on sophisticated designs in a statistically sound manner, and offers a unique combination of power, flexibility, and speed."
+Paginate = 4
+googleAnalytics = "UA-116301903-1"
+[Params]
+  RSSLink = "/index.xml"
+  author = "empirica"
+  github = "empiricaly" # add your github profile name
+  twitter = "empirica_ly" # add your twitter profile
+  email = "hello@empirica.ly"
+
+# [[menu.main]]
+#     name = "Docs"
+#     weight = -100
+#     url = "/docs/"
+# [[menu.main]]
+#     name = "Blog"
+#     weight = -100
+#     url = "/blog/"
+# [[menu.main]]
+#     name = "Faq"
+#     weight = -100
+#     url = "/faq/"
